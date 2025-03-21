@@ -1,0 +1,79 @@
+<section class="hero" id="home">
+    <h1>GhostPay — Where Risk Meets Its Match.</h1>
+    <h4>Secure. Compliant. AI-powered payments and onboarding for African businesses.</h4>
+    <button class="cta-button">Get Started</button>
+    <button class="cta-button" style="background-color: #4CAF50;">Book a Free Consultation</button>
+</section>
+
+<section class="services" id="services">
+    <h2>Our Core Services</h2>
+    <div class="service">
+        <h3>Merchant Onboarding</h3>
+        <p>Get your business ready to accept payments, fast.</p>
+    </div>
+    <div class="service">
+        <h3>Fraud Risk Scoring</h3>
+        <p>AI-driven tools that detect threats before they strike.</p>
+    </div>
+    <div class="service">
+        <h3>KYB / Compliance Support</h3>
+        <p>Stay audit-ready with smart onboarding frameworks.</p>
+    </div>
+    <div class="service">
+        <h3>PSP & Bank Integrations</h3>
+        <p>Seamless access to South Africa’s top payment rails.</p>
+    </div>
+    <div class="service">
+        <h3>Training & Digital Toolkits</h3>
+        <p>Equip your team with SOPs, playbooks & checklists.</p>
+    </div>
+</section>
+
+<section class="why-choose" id="why-ghostpay">
+    <h2>Why Choose GhostPay?</h2>
+    <ul>
+        <li>AI-enhanced fraud detection</li>
+        <li>Compliance-first merchant onboarding</li>
+        <li>High-risk industry experience</li>
+        <li>Lightning-fast support and integrations</li>
+        <li>Tailored for African fintech & SMEs</li>
+    </ul>
+    <p>“We don’t just board merchants. We secure them.”</p>
+</section>
+
+<section id="contact">
+    <h2>Let’s Work Together</h2>
+    <form>
+        <input type="text" placeholder="Full Name" required>
+        <input type="email" placeholder="Email Address" required>
+        <input type="text" placeholder="Business Name" required>
+        <select required>
+            <option>Services Interested In</option>
+            <option>Merchant Onboarding</option>
+            <option>Fraud Risk Scoring</option>
+            <option>KYB / Compliance Support</option>
+            <option>PSP & Bank Integrations</option>
+            <option>Training & Digital Toolkits</option>
+        </select>
+        <textarea placeholder="Message" required></textarea>
+        <button type="submit" class="cta-button">Send Message</button>
+    </form>
+</section>
+
+<footer class="footer">
+    <div>GhostPay Logo</div>
+    <div>
+        <a href="#services">Services</a> |
+        <a href="#about">About</a> |
+        <a href="#contact">Contact</a>
+    </div>
+    <div>
+        <p>Email: <a href="mailto:you@ghostpay.co.za">you@ghostpay.co.za</a></p>
+        <p>Phone: +27 XXX XXX XXXX</p>
+    </div>
+    <div>
+        <a href="#">LinkedIn</a> |
+        <a href="#">Instagram</a>
+    </div>
+    <p>Copyright © 2025 GhostPay Solutions | <a href="#">Terms of Use</a> | <a href="#">Privacy Policy</a></p>
+</footer>
